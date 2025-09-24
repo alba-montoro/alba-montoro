@@ -11,7 +11,7 @@ Soy **estudiante de primer año de DAW** apasionada por **la lectura y el aprend
 - 🌱 Actualmente estoy aprendiendo **programación**  
 - 💼 Experiencia en **telecomunicaciones**  
 - 🎯 Mi objetivo es **convertirme en una buena profesional del sector**  
-- ⚡ Dato curioso: **[algo divertido o personal]**
+- ⚡ Dato curioso: **Soy prácticamente nueva en esto**
 
 ---
 

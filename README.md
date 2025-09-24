@@ -23,9 +23,11 @@ Soy **estudiante de primer año de DAW** apasionada por **la lectura y el aprend
 
 ## 📊 Estadísticas de GitHub
 
-![Tus stats](https://github-readme-stats.vercel.app/api?alba-montoro=TU_USUARIO&show_icons=true&theme=radical)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alba-montoro&show_icons=true&locale=en&layout=compact" alt="alba-montoro" /></p>
 
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?alba-montoro=TU_USUARIO&layout=compact&theme=radical)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alba-montoro&show_icons=true&locale=en" alt="alba-montoro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alba-montoro&" alt="alba-montoro" /></p>
 
 ---
 
